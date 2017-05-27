@@ -1,3 +1,5 @@
+print ("NOTE:\n")
+print ("Maturity period for PPF is 15 years . Hence gross is calculated for 15 years\n")
 print ("Enter your yearsly inverstment ...")
 inverstment = int(raw_input())
 print ("Enter current interest rate ...")
